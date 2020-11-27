@@ -1,0 +1,1370 @@
+Host Name: Localhost and Host address: 127.0.0.1 and Host port: 8080
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61928
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61928
+Client with port: 61928 request length is 211 bytes 
+Client with port: 61928 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61929
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61929
+Client with port: 61929 request length is 211 bytes 
+Client with port: 61929 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61930
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61930
+Client with port: 61930 request length is 211 bytes 
+Client with port: 61930 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61931
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61931
+Client with port: 61931 request length is 211 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61932
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+Client with port: 61931 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+helloClient IP address: 127.0.0.1 and Client port number: 61932
+Client with port: 61932 request length is 211 bytes 
+Client with port: 61932 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61933
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61933
+Client with port: 61933 request length is 211 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61934
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+hellot with port: 61933 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+Client IP address: 127.0.0.1 and Client port number: 61934
+Client with port: 61934 request length is 211 bytes 
+Client with port: 61934 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61935
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61935
+Client with port: 61935 request length is 211 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61936
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient with port: 61935 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+Client IP address: 127.0.0.1 and Client port number: 61936
+Client with port: 61936 request length is 211 bytes 
+Client with port: 61936 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61937
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61937
+Client with port: 61937 request length is 211 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61938
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+Client with port: 61937 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+helloClient IP address: 127.0.0.1 and Client port number: 61938
+Client with port: 61938 request length is 211 bytes 
+Client with port: 61938 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61939
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61939
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61940
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient with port: 61939 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+Client IP address: 127.0.0.1 and Client port number: 61940
+Client with port: 61940 request length is 211 bytes 
+Client with port: 61940 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61941
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61941
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61942
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61942
+Client with port: 61941 request length is 211 bytes 
+Client with port: 61941 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+Client with port: 61942 request length is 211 bytes 
+Client with port: 61942 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61959
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61959
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61960
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient with port: 61959 request length is 211 bytes 
+Client IP address: 127.0.0.1 and Client port number: 61960
+Client with port: 61959 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+Client with port: 61960 request length is 211 bytes 
+Client with port: 61960 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61961
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61961
+Client with port: 61961 request length is 211 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61962
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+Client with port: 61961 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+helloClient IP address: 127.0.0.1 and Client port number: 61962
+Client with port: 61962 request length is 211 bytes 
+Client with port: 61962 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61963
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61963
+Client with port: 61963 request length is 211 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61964
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient with port: 61963 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+Client IP address: 127.0.0.1 and Client port number: 61964
+Client with port: 61964 request length is 211 bytes 
+Client with port: 61964 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61965
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61965
+Client with port: 61965 request length is 211 bytes 
+Client with port: 61965 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61966
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61966
+Client with port: 61966 request length is 211 bytes 
+Client with port: 61966 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61968
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61968
+Client with port: 61968 request length is 211 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61969
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+Client with port: 61968 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+helloClient IP address: 127.0.0.1 and Client port number: 61969
+Client with port: 61969 request length is 211 bytes 
+Client with port: 61969 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61970
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61970
+Client with port: 61970 request length is 211 bytes 
+Client with port: 61970 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61971
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61971
+Client with port: 61971 request length is 211 bytes 
+Client with port: 61971 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61972
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61972
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61973
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient with port: 61972 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+Client IP address: 127.0.0.1 and Client port number: 61973
+Client with port: 61973 request length is 211 bytes 
+Client with port: 61973 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61974
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61974
+Client with port: 61974 request length is 211 bytes 
+Client with port: 61974 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61975
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61975
+Client with port: 61975 request length is 211 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61976
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+Client with port: 61975 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+helloClient IP address: 127.0.0.1 and Client port number: 61976
+Client with port: 61976 request length is 211 bytes 
+Client with port: 61976 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61977
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61977
+Client with port: 61977 request length is 211 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61978
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61978
+Client with port: 61977 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+Client with port: 61978 request length is 211 bytes 
+Client with port: 61978 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61979
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61979
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61980
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient with port: 61979 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+Client IP address: 127.0.0.1 and Client port number: 61980
+Client with port: 61980 request length is 211 bytes 
+Client with port: 61980 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61981
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61981
+Client with port: 61981 request length is 211 bytes 
+Client with port: 61981 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61987
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61987
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61988
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+Client with port: 61987 request length is 329 bytes 
+helloClient with port: 61987 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+Client IP address: 127.0.0.1 and Client port number: 61988
+Client with port: 61988 request length is 211 bytes 
+Client with port: 61988 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61989
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61989
+Client with port: 61989 request length is 329 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61990
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+Client with port: 61989 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+helloClient IP address: 127.0.0.1 and Client port number: 61990
+Client with port: 61990 request length is 211 bytes 
+Client with port: 61990 generated request: b'CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61992
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61992
+Client with port: 61992 request length is 329 bytes 
+Client with port: 61992 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61993
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61993
+Client with port: 61993 request length is 233 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61994
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61994
+Client with port: 61993 generated request: b'CONNECT getpocket.cdn.mozilla.net:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: getpocket.cdn.mozilla.net:443\r\n\r\n' 
+Client with port: 61994 request length is 329 bytes 
+Client with port: 61994 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61995
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61995
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61996
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+Client with port: 61995 generated request: b'CONNECT getpocket.cdn.mozilla.net:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: getpocket.cdn.mozilla.net:443\r\n\r\n' 
+helloClient IP address: 127.0.0.1 and Client port number: 61996
+Client with port: 61996 request length is 329 bytes 
+Client with port: 61996 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61997
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61997
+Client with port: 61997 request length is 233 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61998
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+hellot with port: 61997 generated request: b'CONNECT getpocket.cdn.mozilla.net:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: getpocket.cdn.mozilla.net:443\r\n\r\n' 
+Client IP address: 127.0.0.1 and Client port number: 61998
+Client with port: 61998 request length is 329 bytes 
+Client with port: 61998 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 61999
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 61999
+Client with port: 61999 request length is 233 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62000
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+hellot with port: 61999 generated request: b'CONNECT getpocket.cdn.mozilla.net:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: getpocket.cdn.mozilla.net:443\r\n\r\n' 
+Client IP address: 127.0.0.1 and Client port number: 62000
+Client with port: 62000 request length is 329 bytes 
+Client with port: 62000 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62001
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62001
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62002
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient with port: 62001 generated request: b'CONNECT getpocket.cdn.mozilla.net:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: getpocket.cdn.mozilla.net:443\r\n\r\n' 
+Client IP address: 127.0.0.1 and Client port number: 62002
+Client with port: 62002 request length is 329 bytes 
+Client with port: 62002 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62003
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62003
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62004
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62004
+Client with port: 62003 request length is 233 bytes 
+Client with port: 62003 generated request: b'CONNECT getpocket.cdn.mozilla.net:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: getpocket.cdn.mozilla.net:443\r\n\r\n' 
+Client with port: 62004 request length is 329 bytes 
+Client with port: 62004 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62005
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62005
+Client with port: 62005 request length is 233 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62006
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+Client with port: 62005 generated request: b'CONNECT getpocket.cdn.mozilla.net:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: getpocket.cdn.mozilla.net:443\r\n\r\n' 
+helloClient IP address: 127.0.0.1 and Client port number: 62006
+Client with port: 62006 request length is 329 bytes 
+Client with port: 62006 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62007
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62007
+Client with port: 62007 request length is 233 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62008
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+Client with port: 62007 generated request: b'CONNECT getpocket.cdn.mozilla.net:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: getpocket.cdn.mozilla.net:443\r\n\r\n' 
+helloClient IP address: 127.0.0.1 and Client port number: 62008
+Client with port: 62008 request length is 329 bytes 
+Client with port: 62008 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62010
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62010
+Client with port: 62010 request length is 233 bytes 
+Client with port: 62010 generated request: b'CONNECT getpocket.cdn.mozilla.net:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: getpocket.cdn.mozilla.net:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62012
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62012
+Client with port: 62012 request length is 329 bytes 
+Client with port: 62012 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62013
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62013
+Client with port: 62013 request length is 233 bytes 
+Client with port: 62013 generated request: b'CONNECT getpocket.cdn.mozilla.net:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: getpocket.cdn.mozilla.net:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62014
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62014
+Client with port: 62014 request length is 329 bytes 
+Client with port: 62014 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62018
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62018
+Client with port: 62018 request length is 329 bytes 
+Client with port: 62018 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62019
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62019
+Client with port: 62019 request length is 237 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62020
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient with port: 62019 generated request: b'CONNECT shavar.services.mozilla.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: shavar.services.mozilla.com:443\r\n\r\n' 
+Client IP address: 127.0.0.1 and Client port number: 62020
+Client with port: 62020 request length is 329 bytes 
+Client with port: 62020 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62021
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62021
+Client with port: 62021 request length is 237 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62022
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+Client with port: 62021 generated request: b'CONNECT shavar.services.mozilla.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: shavar.services.mozilla.com:443\r\n\r\n' 
+helloClient IP address: 127.0.0.1 and Client port number: 62022
+Client with port: 62022 request length is 329 bytes 
+Client with port: 62022 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62023
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62023
+Client with port: 62023 request length is 237 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62024
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62024
+Client with port: 62023 generated request: b'CONNECT shavar.services.mozilla.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: shavar.services.mozilla.com:443\r\n\r\n' 
+Client with port: 62024 request length is 329 bytes 
+Client with port: 62024 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62025
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62025
+Client with port: 62025 request length is 237 bytes 
+Client with port: 62025 generated request: b'CONNECT shavar.services.mozilla.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: shavar.services.mozilla.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62026
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62026
+Client with port: 62026 request length is 329 bytes 
+Client with port: 62026 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62027
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62027
+Client with port: 62027 request length is 237 bytes 
+Client with port: 62027 generated request: b'CONNECT shavar.services.mozilla.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: shavar.services.mozilla.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62028
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62028
+Client with port: 62028 request length is 329 bytes 
+Client with port: 62028 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62029
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62029
+Client with port: 62029 request length is 237 bytes 
+Client with port: 62029 generated request: b'CONNECT shavar.services.mozilla.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: shavar.services.mozilla.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62030
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62030
+Client with port: 62030 request length is 329 bytes 
+Client with port: 62030 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62031
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62031
+Client with port: 62031 request length is 237 bytes 
+Client with port: 62031 generated request: b'CONNECT shavar.services.mozilla.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: shavar.services.mozilla.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62032
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62032
+Client with port: 62032 request length is 329 bytes 
+Client with port: 62032 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62033
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62033
+Client with port: 62033 request length is 237 bytes 
+Client with port: 62033 generated request: b'CONNECT shavar.services.mozilla.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: shavar.services.mozilla.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62034
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62034
+Client with port: 62034 request length is 329 bytes 
+Client with port: 62034 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62035
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62035
+Client with port: 62035 request length is 237 bytes 
+Client with port: 62035 generated request: b'CONNECT shavar.services.mozilla.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: shavar.services.mozilla.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62036
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62036
+Client with port: 62036 request length is 329 bytes 
+Client with port: 62036 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62037
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62037
+Client with port: 62037 request length is 237 bytes 
+Client with port: 62037 generated request: b'CONNECT shavar.services.mozilla.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: shavar.services.mozilla.com:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62038
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62038
+Client with port: 62038 request length is 329 bytes 
+Client with port: 62038 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62044
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62044
+Client with port: 62044 request length is 329 bytes 
+Client with port: 62044 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62045
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62045
+Client with port: 62045 request length is 243 bytes 
+****
+Client host name: 127.0.0.1
+Client port number: 62046
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62046
+Client with port: 62045 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+Client with port: 62046 request length is 243 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62047
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+Client with port: 62046 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+helloClient IP address: 127.0.0.1 and Client port number: 62047
+Client with port: 62047 request length is 329 bytes 
+Client with port: 62047 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62048
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62048
+Client with port: 62048 request length is 243 bytes 
+Client with port: 62048 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62051
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62051
+Client with port: 62051 request length is 243 bytes 
+Client with port: 62051 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62052
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62052
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62053
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62053
+Client with port: 62052 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+Client with port: 62053 request length is 243 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62054
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+Client with port: 62053 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+helloClient IP address: 127.0.0.1 and Client port number: 62054
+Client with port: 62054 request length is 329 bytes 
+Client with port: 62054 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62055
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62055
+Client with port: 62055 request length is 243 bytes 
+Client with port: 62055 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62056
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62056
+Client with port: 62056 request length is 243 bytes 
+Client with port: 62056 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62057
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62057
+Client with port: 62057 request length is 329 bytes 
+Client with port: 62057 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62058
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62058
+Client with port: 62058 request length is 243 bytes 
+Client with port: 62058 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62059
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62059
+Client with port: 62059 request length is 243 bytes 
+****
+Client host name: 127.0.0.1
+Client port number: 62060
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient with port: 62059 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+Client IP address: 127.0.0.1 and Client port number: 62060
+Client with port: 62060 request length is 243 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62061
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient with port: 62060 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+Client IP address: 127.0.0.1 and Client port number: 62061
+Client with port: 62061 request length is 329 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62062
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+Client with port: 62061 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+helloClient IP address: 127.0.0.1 and Client port number: 62062
+Client with port: 62062 request length is 243 bytes 
+Client with port: 62062 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62064
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62064
+Client with port: 62064 request length is 243 bytes 
+Client with port: 62064 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62065
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62065
+Client with port: 62065 request length is 243 bytes 
+Client with port: 62065 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62066
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62066
+Client with port: 62066 request length is 329 bytes 
+Client with port: 62066 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62067
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62067
+Client with port: 62067 request length is 243 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62068
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+Client with port: 62067 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+helloClient IP address: 127.0.0.1 and Client port number: 62068
+Client with port: 62068 request length is 243 bytes 
+Client with port: 62068 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62069
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62069
+Client with port: 62069 request length is 243 bytes 
+Client with port: 62069 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62070
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62070
+Client with port: 62070 request length is 329 bytes 
+Client with port: 62070 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62071
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62071
+Client with port: 62071 request length is 243 bytes 
+Client with port: 62071 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62072
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62072
+Client with port: 62072 request length is 243 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62073
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+hellot with port: 62072 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+Client IP address: 127.0.0.1 and Client port number: 62073
+Client with port: 62073 request length is 243 bytes 
+Client with port: 62073 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62074
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62074
+Client with port: 62074 request length is 329 bytes 
+Client with port: 62074 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62075
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62075
+Client with port: 62075 request length is 243 bytes 
+Client with port: 62075 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62076
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62076
+Client with port: 62076 request length is 243 bytes 
+Client with port: 62076 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62077
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62077
+Client with port: 62077 request length is 243 bytes 
+Client with port: 62077 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62078
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62078
+Client with port: 62078 request length is 329 bytes 
+Client with port: 62078 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62079
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62079
+Client with port: 62079 request length is 243 bytes 
+Client with port: 62079 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62081
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62081
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62082
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+Client with port: 62081 request length is 243 bytes 
+helloClient with port: 62081 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+Client IP address: 127.0.0.1 and Client port number: 62082
+Client with port: 62082 request length is 243 bytes 
+Client with port: 62082 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62083
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62083
+Client with port: 62083 request length is 329 bytes 
+Client with port: 62083 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62084
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62084
+Client with port: 62084 request length is 243 bytes 
+Client with port: 62084 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62085
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62085
+Client with port: 62085 request length is 243 bytes 
+Client with port: 62085 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62086
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62086
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62087
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient with port: 62086 request length is 243 bytes 
+Client IP address: 127.0.0.1 and Client port number: 62087
+g.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+Client with port: 62087 request length is 329 bytes 
+Client with port: 62087 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62088
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62088
+Client with port: 62088 request length is 243 bytes 
+Client with port: 62088 generated request: b'CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: incoming.telemetry.mozilla.org:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 62089
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 62089
+Client with port: 62089 request length is 329 bytes 
+Client with port: 62089 generated request: b'GET http://detectportal.firefox.com/success.txt HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n' 

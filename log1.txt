@@ -1,0 +1,233 @@
+Host Name: Localhost and Host address: 127.0.0.1 and Host port: 8080
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 64835
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 64835
+Client with port: 64835 request length is 233 bytes 
+Client with port: 64835 generated request: b'CONNECT getpocket.cdn.mozilla.net:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: getpocket.cdn.mozilla.net:443\r\n\r\n' 
+Host Name: Localhost and Host address: 127.0.0.1 and Host port: 8080
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 64914
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 64914
+Client with port: 64914 request length is 233 bytes 
+Client with port: 64914 generated request: b'CONNECT getpocket.cdn.mozilla.net:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: getpocket.cdn.mozilla.net:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 64915
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 64915
+Client with port: 64915 request length is 215 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 64916
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+hellot with port: 64915 generated request: b'CONNECT aus5.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: aus5.mozilla.org:443\r\n\r\n' 
+Client IP address: 127.0.0.1 and Client port number: 64916
+Client with port: 64916 request length is 233 bytes 
+Client with port: 64916 generated request: b'CONNECT getpocket.cdn.mozilla.net:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: getpocket.cdn.mozilla.net:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 64917
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 64917
+Client with port: 64917 request length is 215 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 64918
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient with port: 64917 generated request: b'CONNECT aus5.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: aus5.mozilla.org:443\r\n\r\n' 
+Client IP address: 127.0.0.1 and Client port number: 64918
+Client with port: 64918 request length is 233 bytes 
+Client with port: 64918 generated request: b'CONNECT getpocket.cdn.mozilla.net:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: getpocket.cdn.mozilla.net:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 64919
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 64919
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 64920
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+Client with port: 64919 request length is 215 bytes 
+helloClient with port: 64919 generated request: b'CONNECT aus5.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: aus5.mozilla.org:443\r\n\r\n' 
+Client IP address: 127.0.0.1 and Client port number: 64920
+Client with port: 64920 request length is 233 bytes 
+Client with port: 64920 generated request: b'CONNECT getpocket.cdn.mozilla.net:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: getpocket.cdn.mozilla.net:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 64921
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 64921
+Client with port: 64921 request length is 215 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 64922
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+Client with port: 64921 generated request: b'CONNECT aus5.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: aus5.mozilla.org:443\r\n\r\n' 
+helloClient IP address: 127.0.0.1 and Client port number: 64922
+Client with port: 64922 request length is 233 bytes 
+Client with port: 64922 generated request: b'CONNECT getpocket.cdn.mozilla.net:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: getpocket.cdn.mozilla.net:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 64923
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 64923
+Client with port: 64923 request length is 215 bytes 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 64924
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient with port: 64923 generated request: b'CONNECT aus5.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: aus5.mozilla.org:443\r\n\r\n' 
+Client IP address: 127.0.0.1 and Client port number: 64924
+Client with port: 64924 request length is 233 bytes 
+Client with port: 64924 generated request: b'CONNECT getpocket.cdn.mozilla.net:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: getpocket.cdn.mozilla.net:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 64925
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 64925
+Client with port: 64925 request length is 215 bytes 
+Client with port: 64925 generated request: b'CONNECT aus5.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: aus5.mozilla.org:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 64926
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 64926
+Client with port: 64926 request length is 233 bytes 
+Client with port: 64926 generated request: b'CONNECT getpocket.cdn.mozilla.net:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: getpocket.cdn.mozilla.net:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 64927
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 64927
+Client with port: 64927 request length is 215 bytes 
+Client with port: 64927 generated request: b'CONNECT aus5.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: aus5.mozilla.org:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 64928
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 64928
+Client with port: 64928 request length is 233 bytes 
+Client with port: 64928 generated request: b'CONNECT getpocket.cdn.mozilla.net:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: getpocket.cdn.mozilla.net:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 64929
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 64929
+Client with port: 64929 request length is 215 bytes 
+Client with port: 64929 generated request: b'CONNECT aus5.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: aus5.mozilla.org:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 64930
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 64930
+Client with port: 64930 request length is 233 bytes 
+Client with port: 64930 generated request: b'CONNECT getpocket.cdn.mozilla.net:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: getpocket.cdn.mozilla.net:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 64931
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 64931
+Client with port: 64931 request length is 215 bytes 
+Client with port: 64931 generated request: b'CONNECT aus5.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: aus5.mozilla.org:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 64932
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 64932
+Client with port: 64932 request length is 233 bytes 
+Client with port: 64932 generated request: b'CONNECT getpocket.cdn.mozilla.net:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: getpocket.cdn.mozilla.net:443\r\n\r\n' 
+******************** Client Details:- ********************
+Client host name: 127.0.0.1
+Client port number: 64933
+Socket family: AddressFamily.AF_INET
+Socket type: 0
+Socket protocol: 0
+Timeout: None
+********************************************************
+helloClient IP address: 127.0.0.1 and Client port number: 64933
+Client with port: 64933 request length is 215 bytes 
+Client with port: 64933 generated request: b'CONNECT aus5.mozilla.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: aus5.mozilla.org:443\r\n\r\n' 
